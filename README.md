@@ -1,0 +1,2 @@
+# DarkSoulsIIISaveConverter
+ 一个修改黑暗之魂III存档Steam数字签名，使其可以在不同的Steam账号之间进行转移的软件。
