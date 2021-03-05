@@ -1,0 +1,8 @@
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\app.g.cs
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\mainwindow.g.cs
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\savepanel.g.cs
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\slotpanel.g.cs
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\SaveMerge_MarkupCompile.cache
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\SaveMerge_MarkupCompile.lref
+C:\Users\13379\Desktop\DarkSoulsIIISaveConverter\obj\Debug\DarkSoulsIIISaveConverter.csprojAssemblyReference.cache
